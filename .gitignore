@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+.git/
+**/*.vcxproj*
+*.sln
+**/Makefile
+**.make
+build*/
